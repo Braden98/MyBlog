@@ -1,6 +1,0 @@
-2019-04-13 08:57:46.859 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
-2019-04-13 08:57:47.084 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
-2019-04-13 08:57:53.864 [http-nio-80-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Enter getArchives method
-2019-04-13 08:57:53.887 [http-nio-80-exec-2] DEBUG com.my.blog.website.service.impl.SiteServiceImpl - Exit getArchives method
-2019-04-13 09:17:37.514 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Enter getContents method
-2019-04-13 09:17:37.762 [http-nio-80-exec-1] DEBUG com.my.blog.website.service.impl.ContentServiceImpl - Exit getContents method
