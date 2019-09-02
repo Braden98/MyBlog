@@ -1,11 +1,18 @@
 # Compiled class file
 target
 *.class
-# git cz 
+# file by git cz & idea
+node_modules
 *.json
+.idea
+.project
+.settings
+.factorypath
 # Log file
 *.log
-
+logs
+# iml
+*.iml
 # BlueJ files
 *.ctxt
 
