@@ -2,13 +2,13 @@
 
 ## 技术
 
-#### 后端
+
 Springboot+Mybatis+SpringSecurity 
-#### 前端
-网上找的...
+
+## 总结
+[点这里](http://www.ubique.top/2019/04/29/2019-05-01-Myblog-Springboot-Summary/)
 
 
 
 
-演示站点：http://http://62.234.42.210/
 
